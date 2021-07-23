@@ -1,0 +1,10 @@
+.panda-bg{
+    background-color: #fceae8;
+}
+.btn-pink{
+    background-color: #d63384;
+    color: white;
+}
+.btn-pink:hover{
+    color: #fceae8;
+}
