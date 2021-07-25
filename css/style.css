@@ -8,3 +8,18 @@
 .btn-pink:hover{
     color: #fceae8;
 }
+.panda-card{
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 15px;
+}
+.input-holder{
+    width: 35%;
+}
+.p-update{
+    margin-left: 32%;
+}
+.contact{
+    height: 350px;
+    
+}
